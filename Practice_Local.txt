@@ -1,2 +1,1 @@
-My name is Chandrashekar.This is for Git Practice(Local),
-Hi
+My name is Chandrashekar
